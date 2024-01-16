@@ -1,0 +1,15 @@
+D:\APK\C#\Projects\DrawTeams\bin\Debug\net6.0\DrawTeams.exe
+D:\APK\C#\Projects\DrawTeams\bin\Debug\net6.0\DrawTeams.deps.json
+D:\APK\C#\Projects\DrawTeams\bin\Debug\net6.0\DrawTeams.runtimeconfig.json
+D:\APK\C#\Projects\DrawTeams\bin\Debug\net6.0\DrawTeams.dll
+D:\APK\C#\Projects\DrawTeams\bin\Debug\net6.0\DrawTeams.pdb
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\DrawTeams.csproj.AssemblyReference.cache
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\DrawTeams.GeneratedMSBuildEditorConfig.editorconfig
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\DrawTeams.AssemblyInfoInputs.cache
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\DrawTeams.AssemblyInfo.cs
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\DrawTeams.csproj.CoreCompileInputs.cache
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\DrawTeams.dll
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\refint\DrawTeams.dll
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\DrawTeams.pdb
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\DrawTeams.genruntimeconfig.cache
+D:\APK\C#\Projects\DrawTeams\obj\Debug\net6.0\ref\DrawTeams.dll

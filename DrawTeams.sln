@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawTeams", "DrawTeams.csproj", "{07C685EF-F028-436B-B31C-C025E4DFE5F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C685EF-F028-436B-B31C-C025E4DFE5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C685EF-F028-436B-B31C-C025E4DFE5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C685EF-F028-436B-B31C-C025E4DFE5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C685EF-F028-436B-B31C-C025E4DFE5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F1FF0B-BE9D-45EF-A342-F02DA8F33C27}
+	EndGlobalSection
+EndGlobal
